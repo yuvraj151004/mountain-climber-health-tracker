@@ -1,6 +1,3 @@
-# mountain-climber-health-tracker
-Arduino-based wearable to monitor climber’s health and GPS location with emergency alerts.
-
 # Mountain Climber Health & Location Tracker
 
 Arduino-based wearable to monitor heart rate, temperature, and GPS location. Sends emergency SMS via GSM module on abnormal vitals.
